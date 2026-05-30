@@ -1,0 +1,25 @@
+{
+  "name": "dobbyads-backend",
+  "version": "1.0.0",
+  "description": "Backend server for Dobby Ads assignment with nested folder structures and MCP integration.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "mcp": "node mcp-server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.4.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.1",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

@@ -55,7 +55,7 @@ You can also sign up with a new account via the frontend dashboard.
    *Verify or update the configuration in `backend/.env`*:
    ```env
    PORT=5000
-   MONGODB_URI=mongodb://127.0.0.1:27017/dobbyads
+   MONGODB_URI=mongodb
    JWT_SECRET=super_secret_session_token_key_abc_123
    NODE_ENV=development
    MCP_USER_EMAIL=admin@dobbyads.com

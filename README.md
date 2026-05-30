@@ -119,3 +119,7 @@ To allow Claude Desktop (or any other MCP-compatible client) to interact with yo
    - *"List my drive items."*
    - *"Create a folder called 'Campaigns' in root."*
    - *"Upload the image at 'C:/Users/username/Pictures/banner.png' with the name 'Main Banner' inside the Campaigns folder."* (MCP will copy the file to the drive's local storage and index it in the MongoDB database!)
+
+<img width="1918" height="765" alt="Screenshot 2026-05-30 183838" src="https://github.com/user-attachments/assets/3943e2ff-066f-4f41-8505-ddef3bc9047d" />
+<img width="1899" height="835" alt="Screenshot 2026-05-30 183432" src="https://github.com/user-attachments/assets/d06f0fae-51ab-463e-8594-081b20771d1d" />
+
